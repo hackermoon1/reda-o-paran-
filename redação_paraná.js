@@ -11,7 +11,7 @@
         CREDITS_DISCORD: "discord.gg/kmeuwvXTNH",
         CREDITS_GITHUB: "github.com/hackermoon1",
         DEFAULT_API_KEY: "AIzaSyDwql-z5sYEJKr3fE5wPFJuM7nJtYKmyZk",
-        MODEL_NAME: 'gemini-1.5-pro-latest',
+        MODEL_NAME: 'gemini-2.0-flash',
         state: {
             isMenuVisible: false, isRunning: false, isTyping: false, isPageVerified: false,
             abortController: null, pageData: {}, generatedTitle: "", generatedText: "",
